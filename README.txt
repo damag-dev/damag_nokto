@@ -5,7 +5,7 @@
 sql
 
 [LICENSE]
-Apache License
+GNU GPL
 
 Have Fun :)
 
