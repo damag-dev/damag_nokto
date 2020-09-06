@@ -2,6 +2,7 @@
 
 [REQUIREMENTS]
 
+skinchanger
 sql
 
 [LICENSE]
